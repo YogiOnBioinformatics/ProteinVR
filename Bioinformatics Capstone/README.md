@@ -2,6 +2,10 @@
 
 The following directory contains work from the University of Pittsburgh capstone course, `Bioinformatics Software Design` (BIOSC 1640). The specific important documents showcased here are the final talk and paper that the class requires. Some more explanation on the files is provided below. 
 
+
+**NOTE**: For more info related to the Machine Learning and ChemoInformatics work mentioned in the documents of this folder, please look at this [repository](https://github.com/YogiOnBioinformatics/ChemInformatics-Machine-Learning-with-NNScore-2.0)
+
+
 `YogAlex and ChemInformatics Presentation.pdf`
 
 This file is a `PDF` version of the original talk that was given to the entire capstone class. It does not include the notes that explain some slides but may be an easier viewing method for some. 
