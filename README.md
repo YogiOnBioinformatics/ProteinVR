@@ -1,3 +1,3 @@
 # ProteinVR
 
-![DurrantLab](https://github.com/durrantlab)
+[DurrantLab](https://github.com/durrantlab)
