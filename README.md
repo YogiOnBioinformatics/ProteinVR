@@ -1,4 +1,4 @@
-# ProteinVR
+# ProteinVR: Micro and Structural Biology in a Virtual World
 
 **Note: As of January 2019, this project is still ongoing** and a formal publication is being drafted related to the effectiveness of this software. 
 
