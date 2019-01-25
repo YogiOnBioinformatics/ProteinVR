@@ -11,11 +11,11 @@ I helped revise and give feedback on the grant that went into this project, ulti
 
 **Files**
 
-:folder: `Anatomical Model Renders/`
+:file_folder: `Anatomical Model Renders/`
 
 This folder contains anatomical models rendered and saved as `.png` files. These models were created using Linux, Blender and Python scripts that are found on my account in a [different repository](https://github.com/YogiOnBioinformatics/Blender-Python-Scripts) known as `Blender-Python-Scripts`. The models took many months of work which involved creating scripts to automate loading in files, decimate (reduce data points) of 3D model objects, learn photography lighting techniques and viewing live surgical videos/images to determine correct colors for anatomical parts.
 
-:folder: `Bioinformatics Capstone/` 
+:file_folder: `Bioinformatics Capstone/` 
 
 This folder contains a presentation and final paper that was written for the Bioinformatics capstone course in Spring 2018. The folder contains information about a Python script known as YogAlex and about Cheminformatics Machine Learning. The YogAlex project is related entirely to the bigger project of ProteinVR whereas the Cheminformatics portion is a very different project that is currently ongoing and can be found [here](https://github.com/YogiOnBioinformatics/ChemInformatics-Machine-Learning-with-NNScore-2.0). 
 
