@@ -19,7 +19,7 @@ This folder contains anatomical models rendered and saved as `.png` files. These
 
 This folder contains a presentation and final paper that was written for the Bioinformatics capstone course in Spring 2018. The folder contains information about a Python script known as YogAlex and about Cheminformatics Machine Learning. The YogAlex project is related entirely to the bigger project of ProteinVR whereas the Cheminformatics portion is a very different project that is currently ongoing and can be found [here](https://github.com/YogiOnBioinformatics/ChemInformatics-Machine-Learning-with-NNScore-2.0). 
 
-:scroll: `Initial Demo Instructions.pdf`
+:file_folder: :scroll: `Demo/Initial Demo Instructions.pdf`
 
 Look at this document to have a **VERY PRELIMINARY** example of the ProteinVR software. There are some funky backgrounds and bugs that are still being fixed. Either way it's a great place to get a feel for where we're going and look at some really cool scenes with proteins. 
 
