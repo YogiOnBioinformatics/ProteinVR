@@ -23,6 +23,11 @@ This folder contains a presentation and final paper that was written for the Bio
 
 Look at this document to have a **VERY PRELIMINARY** example of the ProteinVR software. There are some funky backgrounds and bugs that are still being fixed. Either way it's a great place to get a feel for where we're going and look at some really cool scenes with proteins. 
 
+:file_folder: `Blender Python Scripts/`
+
+Folder that contains Blender Python (bpy) scripts used during the creation of anatomical models found in the `Anatomical Model Renders/` folder
+
+
 **Contact Information** 
 
 ![interests](https://avatars1.githubusercontent.com/u/38919947?s=400&u=49ab1365a14fac78a91e425efd583f7a2bcb3e25&v=4)
