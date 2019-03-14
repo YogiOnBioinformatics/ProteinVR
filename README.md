@@ -25,7 +25,7 @@ Look at this document to have a **VERY PRELIMINARY** example of the ProteinVR so
 
 :file_folder: `Blender Python Scripts/`
 
-Folder that contains Blender Python (bpy) scripts used during the creation of anatomical models found in the `Anatomical Model Renders/` folder
+Folder that contains Blender Python (bpy) scripts used during the creation of anatomical models found in the `Anatomical Model Renders/` folder.
 
 
 **Contact Information** 
